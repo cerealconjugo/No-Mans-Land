@@ -21,6 +21,7 @@ import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 import javax.annotation.Nullable;
+import java.util.Set;
 
 @Mixin(Entity.class)
 public abstract class EntityMixin {
@@ -72,6 +73,12 @@ public abstract class EntityMixin {
     @Shadow public abstract EntityDimensions getDimensions(Pose pose);
 
     @Shadow public abstract Pose getPose();
+
+    @Shadow public abstract boolean removeTag(String tag);
+
+    @Shadow public abstract Set<String> getTags();
+
+    @Shadow public abstract void igniteForSeconds(float seconds);
 
     @Inject(method = "<init>", at = @At("TAIL"))
     private void init(EntityType entityType, Level level, CallbackInfo ci) {
