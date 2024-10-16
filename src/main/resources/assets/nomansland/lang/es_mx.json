@@ -31,7 +31,7 @@
   "block.nomansland.duckweed": "Lenteja",
   "block.nomansland.beard_moss": "Usnea",
 
-  "block.nomansland.pebbles": "Piedra",
+  "block.nomansland.pebbles": "Piedras",
   "block.nomansland.seashells": "Caracolas",
 
   "block.nomansland.white_flowerbed": "Macizo blanco",
@@ -173,7 +173,7 @@
   "block.nomansland.pine_trapdoor": "Trampilla de pino",
   "block.nomansland.pine_door": "Puerta de pino",
   "block.nomansland.pine_fence_gate": "Puerta de valla de pino",
-  "block.nomansland.pine_pressure_plate": "Pine Pressure Plate",
+  "block.nomansland.pine_pressure_plate": "Placa de presión de pino",
   "block.nomansland.pine_button": "Botón de pino",
   "block.nomansland.trimmed_pine_planks": "Tablones de pino recortados",
   "block.nomansland.pine_bookshelf": "Librería de pino",
@@ -209,7 +209,7 @@
   "block.nomansland.stripped_willow_wood": "Leño de sauce sin corteza",
   "block.nomansland.willow_leaves": "Hojas de sauce",
   "block.nomansland.willow_sapling": "Retoño de sauce",
-  "block.nomansland.potted_willow_sapling": "Retoño de sauce en maceto",
+  "block.nomansland.potted_willow_sapling": "Retoño de sauce en maceta",
   "block.nomansland.willow_sign": "Letrero de sauce",
   "block.nomansland.willow_wall_sign": "Letrero de sauce en pared",
   "block.nomansland.willow_hanging_sign": "Letrero colgante de sauce",
@@ -320,7 +320,7 @@
   "death.attack.nomansland.spike_impale": "%1$s fue empalado por picos",
   "death.attack.nomansland.spike_impale.player": "%1$s fue empalado por picos mientras peleaba contra %2$s",
   "death.attack.nomansland.spike_poke": "%1$s fue pinchado hasta la muerte por trampa picos",
-  "death.attack.nomansland.spike_poke.player": "%1$s ue pinchado hasta la muerte por trampa picos mientras luchaba contra %2$s",
+  "death.attack.nomansland.spike_poke.player": "%1$s fue pinchado hasta la muerte por trampa picos mientras luchaba contra %2$s",
   "death.attack.nomansland.spike_skewer": "%1$s fue ensartado por picos moviéndose",
   "death.attack.nomansland.spike_skewer.player": "%1$s fue ensartado por picos moviéndose mientras luchaba contra %2$s",
   
